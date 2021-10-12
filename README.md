@@ -1,5 +1,5 @@
 Exerice 1 
-
+L'exercie est codé en Python
 =====================
 
 
